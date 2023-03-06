@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1669655078 source:i:\workplace\mehedi hasan\software_development_1\pos2\header\product\addproduct.cpp
+	<iostream>
+	<string>
+
